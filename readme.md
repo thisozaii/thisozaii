@@ -25,3 +25,9 @@
 [<img src="https://img.shields.io/badge/-Groovy-4298B8?style=flat-square&logo=apache-groovy&logoColor=black" alt="Groovy" />](#)
 [<img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />](#)
 
+#### Stats:
+![Visitors](https://api.visitorbadge.io/api/visitors?path=thisozaii&labelColor=%23ba68c8&countColor=%23263759&style=flat-square&labelStyle=lower)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozaiithejava&layout=compact&theme=nord" alt="Top Languages" />
+</p>
