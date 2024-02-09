@@ -5,6 +5,9 @@
 > I'm 21 years old.
 > I enjoy coding in Java and Groovy as both server side and client side developer.
 
+##### My Visitors: <br> ![Visitors](https://api.visitorbadge.io/api/visitors?path=thisozaii&labelColor=%23ba68c8&countColor=%23263759&style=flat-square&labelStyle=lower)![GitHub User's stars](https://img.shields.io/github/stars/ozaiithejava?style=flat-square&logo=github&logoColor=white&label=My%20Star'S&labelColor=black&color=purple)
+
+
 ##### Hobbies:
 - Playing League of Legends
 - Coding, coding, and more coding
