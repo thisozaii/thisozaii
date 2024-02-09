@@ -3,6 +3,7 @@
 #### Who am I?
 > I'm Yiğit.
 > I'm 21 years old.
+> I enjoy coding in Java and Groovy as both server side and client side developer.
 
 ##### Hobbies:
 - Playing League of Legends
