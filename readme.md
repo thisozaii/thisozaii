@@ -5,7 +5,7 @@
 > I'm 21 years old.
 > I enjoy coding in Java and Groovy as both server side and client side developer.
 
-##### My Visitors: <br> ![Visitors](https://api.visitorbadge.io/api/visitors?path=thisozaii&labelColor=%23ba68c8&countColor=%23263759&style=flat-square&labelStyle=lower)![GitHub User's stars](https://img.shields.io/github/stars/ozaiithejava?style=flat-square&logo=github&logoColor=white&label=My%20Star'S&labelColor=black&color=purple)
+##### My Visitors: <br> ![Visitors](https://api.visitorbadge.io/api/visitors?path=thisozaii&labelColor=%23ba68c8&countColor=%23263759&style=flat-square&labelStyle=lower)![GitHub User's stars](https://img.shields.io/github/stars/thisozaii?style=flat-square&logo=github&logoColor=white&label=My%20Star'S&labelColor=black&color=purple)
 
 
 ##### Hobbies:
@@ -26,9 +26,13 @@
 [<img src="https://img.shields.io/badge/-C%23-800080?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />](#)
 [<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />](#)
 [<img src="https://img.shields.io/badge/-Groovy-4298B8?style=flat-square&logo=apache-groovy&logoColor=black" alt="Groovy" />](#)
-[<img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />](#)
+[<img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=purple" alt="Go" />](#)
 
 #### Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisozaii&layout=compact&theme=nord" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisozaii&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thisozaii&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats" />
 </p>
